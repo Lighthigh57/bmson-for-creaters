@@ -55,6 +55,10 @@ const config: Config = {
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
+        gtag: {
+          trackingID: 'G-WE3X5ESBD1',
+          anonymizeIP: true,
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
