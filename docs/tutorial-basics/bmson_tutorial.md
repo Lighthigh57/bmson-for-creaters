@@ -1,7 +1,7 @@
 # BMSON作りガイド2024
 あまり普及されていないbmsonフォーマット、従来のbmsと何が違うのか、初BMSでいきなりbmsonで作った私が簡単にまとめました。（それも前回の無名戦で）
 ## 参考にさせていただいたサイト、ドキュメント
-[えびです - .BMSONのザックリとした作り方](/Bs1T2Lx1QxyqX5YLVOSwnA)  
+[えびです - .BMSONのザックリとした作り方](https://hackmd.io/@ebideath/BJT-vBVfs)  
 [BmsONE 101 - The Basics](https://docs.google.com/document/d/178FvK-rVAcc-ZK5ls6gnMmaIphFmwF78JWIL8kRiGXA/edit#heading=h.vt3wr26clq0k)
 ## bmsonってなんぞや？
 > wosderge氏が開発した新しいBMSフォーマットである。2015年8月13日にフォーマットが公開され、現在も改良が続いている。(BMSまとめWikiより)
