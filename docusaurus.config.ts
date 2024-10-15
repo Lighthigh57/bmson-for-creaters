@@ -68,6 +68,9 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+    metadata: [
+      {name: 'keywords', content: 'bmson, bms'},
+    ],
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'BmsonCreatersSiteforJP',
