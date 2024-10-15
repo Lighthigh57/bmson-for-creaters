@@ -109,7 +109,7 @@ const config: Config = {
           items: [
             {
               label: 'X',
-              href: 'https://x.com/Lighthigh57',
+              href: 'https://github.com/Lighthigh57/bmson-for-creaters',
             },
           ],
         },
