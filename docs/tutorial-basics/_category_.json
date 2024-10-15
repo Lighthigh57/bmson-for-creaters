@@ -3,6 +3,6 @@
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "なんとなくでも理解ってしまうBMSONの作り方"
+    "description": "なんとなくでも理解ってしまうBMSONの作り方。あまり普及していないbmsonフォーマット、初BMSでいきなりbmsonで作った私が、従来のbmsと何が違うのかから、かんたんな作り方まで簡単にまとめました。"
   }
 }
