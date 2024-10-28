@@ -1,0 +1,8 @@
+{
+  "label": "BMSON仕様書(非公式訳)",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "現時点でのbmsonフォーマットの仕様をドキュメントから翻訳してまとめる予定です。"
+  }
+}
