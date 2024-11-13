@@ -971,7 +971,7 @@ SC: Scratch (Turntable)
 
 [^2]: \#RANK 2 (NORMAL)
 
-[^3]: <http://lame.sourceforge.net/tech-FAQ.txt>
+[^3]: [LAME Technical FAQ](http://lame.sourceforge.net/tech-FAQ.txt)
 
 [^4]: Some game may choose to display the BGA as the background, and
     overlay notes on top of it. Example commercial games that use this
