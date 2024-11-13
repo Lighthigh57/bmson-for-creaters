@@ -4,11 +4,9 @@ Version 1.0.0-beta (2015/12/26)
 
 ## Links
 
--   Official Site: <https://bmson.nekokan.dyndns.info/>
--   how_to_bmson (Japanese):
-    <http://www40.atwiki.jp/laser_bm/pages/110.html>
--   \#bmson Creaion Notes (English):
-    <https://docs.google.com/document/d/1gQKPWApeL03aO09-II7slxTeuvm3HO_FmY1D4chRvOQ>
+-   [Official Site](https://bmson.nekokan.dyndns.info/)
+-   [how_to_bmson (Japanese)](http://www40.atwiki.jp/laser_bm/pages/110.html)
+-   [\#bmson Creaion Notes (English)](https://docs.google.com/document/d/1gQKPWApeL03aO09-II7slxTeuvm3HO_FmY1D4chRvOQ)
 
 ## General
 
