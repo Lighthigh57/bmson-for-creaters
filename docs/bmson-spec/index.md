@@ -192,8 +192,6 @@ This is the number of pulses per one quarter note in a 4/4 measure. By
 default, this value is `240`, which means that 1 quarter note is split
 into 240 pulses[^1].
 
-![Example between beat, pulse, and metric time.](images/time_units.png)
-
 <div class="admonition">
 
 Notes
@@ -614,19 +612,10 @@ grouped together in the same array.
 sound_channels :: SoundChannel\[\]  
 A sound channel represents an audio track.
 
-![image](images/sound_channels.png)
-
 ### Slicing and Restarting
 
 The notes inside this sound channel determines how to slice and when to
 restart.
-
-![Notes at different times caused sounds to be sliced at different
-time.](images/slicing_1.png)
-
-![The highlighted `SoundChannel` represents a kick sound. Instead of
-repeating a kick sound many time, leading to a redundant audio file, the
-`SoundChannel` is restarted instead.](images/slicing_2.png)
 
 name :: DOMString  
 This represents the filename of the audio track.
@@ -753,10 +742,6 @@ Slicing based on these slicing points, we obtain these slices:
 | 3        | 1                | 1.25            | 0.25               |
 | 4        | 1.25             | 2               | 0.75               |
 | 5 6      | 2 3              | 3 (end of file) | 1                  |
-
-Sliced sound looks like this:
-
-![image](images/slicing_3.png)
 
 Finally, these slices become associated with the notes.
 
