@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # bmsonことはじめ
 
+## 絶賛加筆中です
+情報としてはまだまだ足りないところがあります。
+ぜひ参考までにしていただけると助かります。
+
 ## 参考にさせていただいたサイト、ドキュメント
 [えびです - .BMSONのザックリとした作り方](https://hackmd.io/@ebideath/BJT-vBVfs)  
 [BmsONE 101 - The Basics](https://docs.google.com/document/d/178FvK-rVAcc-ZK5ls6gnMmaIphFmwF78JWIL8kRiGXA/edit#heading=h.vt3wr26clq0k)
